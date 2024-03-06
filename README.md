@@ -1,7 +1,7 @@
-### Hi there, I'm Manuel
+### Hi there, I'm Manuel!
 
-I'm a software engineering student who views technology as a means to improve people's lives, particularly in ways that significantly impact society. 
-I am passionate about entrepreneurship and innovation. I also really like sailing.
+I'm a software engineering student who views technology as a means to improve people's lives, especially in ways that have a significant impact on society. I am passionate about entrepreneurship and innovation. Additionally, I have a deep passion for sailing.
+
 <!--
 **manolast/manolast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
